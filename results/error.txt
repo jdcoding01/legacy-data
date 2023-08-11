@@ -1,0 +1,6 @@
+Failed to find category for industry: 7 - Education 
+Failed to find category for industry: 8 - Business & Techology 
+Failed to find category for industry: 9 - Music, Dance & Ent. 
+Failed to find category for industry: 10 - Film, T.V. & Radio 
+Failed to find category for industry: 11 - Sports & Recreations 
+Failed to find category for industry: 12 - Business & Technology 

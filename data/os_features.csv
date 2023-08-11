@@ -1,0 +1,522 @@
+id,label,field_type_id,help_tip,gender_specific,is_required,allow_custom,module_id,deleted_at,created_at,updated_at
+1,Eye Color,2,,both,0,0,1,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+2,Hair Color,2,,both,0,0,1,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+3,Skin Tone,2,,both,0,0,1,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+4,Height,2,,both,0,0,1,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+5,Blouse,2,,female,0,0,2,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+6,Shoes,2,,female,0,0,2,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+7,Weight,2,,both,0,0,1,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+8,Chest,2,,male,0,0,3,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+9,Waist,2,,both,0,0,3,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+10,Hips,2,,both,0,0,3,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+11,Jacket,2,,male,0,0,4,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+12,Trousers,2,,male,0,0,4,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+13,Collar,2,,male,0,0,4,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+14,Shoes,2,,male,0,0,4,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+15,Bust,2,,female,0,0,3,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+16,Model Type,3,You can select one or more type of model,both,0,0,5,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+17,Speciality on,3,Select one or more specialties where you want apply,both,0,0,5,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+18,Voice Tone or Tessitura,2,Select your voice tone,both,0,0,6,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+19,Availability to Travel,4,,both,0,0,7,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+20,Accent,3,Select the accent you have or can imitate,both,0,0,6,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+21,Unique Traits,3,Select the unique traits you have.,both,0,0,8,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+22,Valid Passport / Visa,4,,both,0,0,7,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+23,Equipment used,3,,both,0,0,9,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+24,Music Genre,10,,both,0,1,10,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+25,Stage Name / Alias,1,"Pseudonym, nickname or alias.",both,0,0,11,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+26,Years Active,8,,both,0,0,11,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+27,Affiliations,5,,both,0,0,11,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+28,Musical Repertoire,5,,both,0,0,10,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+29,Experience in,3,,both,0,0,10,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+30,Speciality on,3,,both,0,0,12,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+31,Awards,5,,both,0,0,7,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+32,What to spect from us?,5,,both,0,0,7,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+33,Type of coverage,3,,both,0,0,12,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+34,Extra Info,5,,both,0,0,12,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+35,What can you spect from me?,5,,both,0,0,7,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+36,Products & Services,5,Describe what are the products and/or services offered by your business,both,0,0,7,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+37,Hair Type,2,What's your hair type?,both,0,0,1,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+38,Hair Length,2,What length of hair do you have?,both,0,0,1,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+39,Speciality on,3,,both,0,0,14,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+40,Type,3,,both,0,0,14,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+41,Extra Info,5,,both,0,0,14,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+42,Extra Info,5,,both,0,0,9,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+43,Preproduction,3,Choose in which pre-production process you have experience.,both,0,0,15,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+44,Production,3,Choose in which production process you have experience.,both,0,0,15,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+45,Postproduction,3,Choose in which post-production process you have experience.,both,0,0,15,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+46,Type of Exercises,10,Choose the types of exercises you have experience in.,both,0,1,16,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+47,Knowledge,3,,both,0,0,17,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+48,Do you belong to an agency?,4,,both,0,0,18,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+49,Agency,5,Mention the name of the agency you belong to.,both,0,0,18,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+50,Courses and Workshops,5,Mention any courses or workshops you've done related to this area.,both,0,0,11,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+51,Previous Experience,5,,both,0,0,11,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+52,Dress,2,,female,0,0,2,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+53,Sostén,2,,female,0,0,2,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+54,Specialties,3,,both,0,0,17,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+55,Work Style,3,Work styles where you have the most experience.,both,0,0,19,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+56,Speciality on,3,,both,0,0,19,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+57,Experience in,3,Choose the work style or styles where you have the most experience.,both,0,0,20,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+58,Speciality on,3,,both,0,0,20,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+59,Types of Beards,3,Choose the type or types of beard cuts you dominate.,both,0,0,20,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+60,Experience in,3,Choose the work style where you have the most experience.,both,0,0,21,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+61,Speciality on,3,,both,0,0,21,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+62,Work Style ,3,Choose the work style where you have the most experience.,both,0,0,22,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+63,Speciality on,3,,both,0,0,22,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+64,Equipment Used,10,Mention the equipment of this area that you tend to use or know how to use.,both,0,1,22,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+65,Equipment Owned,10,Mention the equipment of this area that you own.,both,0,1,22,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+66,Work Style,3,Choose the work style or styles where you have the most experience.,both,0,0,23,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+67,Types of dyes,3,,both,0,0,23,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+68,Experience in,3,Choose the work styles where you have the most experience.,both,0,0,24,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+69,Types of makeup,3,Choose the types of makeup you specialize in.,both,0,0,24,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+70,Speciality on,4,,both,0,0,24,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+71,Work Style,3,Choose the work styles where you have the most experience.,both,0,0,25,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+72,Speciality on,3,,both,0,0,25,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+73,Equipment Used,10,Mention the equipment of this area that you tend to use or know how to use.,both,0,1,25,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+74,Equipment Owned,10,Mention the equipment of this area that you own.,both,0,1,25,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+75,Work Style,3,Choose the work styles where you have the most experience.,both,0,0,26,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+76,Technique,3,Choose the hair removal techniques you specialize in.,both,0,0,26,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+77,Speciality on,3,,both,0,0,26,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+78,Speciality on,3,,both,0,0,27,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+79,Equipment Used,10,Mention the equipment of this area that you tend to use or know how to use.,both,0,1,27,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+80,Bags and Purses,3,,both,0,0,28,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+81,Footwear,3,,both,0,0,28,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+82,Hats and Caps ,3,,both,0,0,28,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+83,Glasses ,3,,both,0,0,28,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+84,Specialty,3,,both,0,0,28,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+85,Specialty,3,,both,0,0,29,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+86,Type,3,Choose the type of clothes you design.,both,0,0,29,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+87,Speciality on,3,Choose the types of jewelry you design.,both,0,0,30,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+88,Materials Used ,3,Choose the types of materials you tend to use when designing jewelry.,both,0,0,30,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+89,Speciality on,3,,both,0,0,31,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+90,Types of Stitching,3,,both,0,0,32,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+91,Type of Clothing,3,,both,0,0,32,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+92,Speciality on,3,,both,0,0,32,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+93,Work Style,3,Choose the work styles where you have the most experience.,both,0,0,33,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+94,Speciality on,3,,both,0,0,33,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+95,Types of Event ,10,Mention the types of events you specialize in.,both,0,1,34,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+96,Number of guests,2,Choose the approximate amount of guests at your events.,both,0,0,34,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+97,Products type,10,Mention the products you style.,both,0,1,35,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+98,Type of style,3,,both,0,0,36,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+99,Speciality on,3,,both,0,0,37,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+100,Type of style,3,,both,0,0,37,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+101,Specialties,3,,both,0,0,39,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+102,Speciality on,3,,both,0,0,36,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+103,Speciality on,3,,both,0,0,41,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+104,Type,3,,both,0,0,41,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+105,Artist Collaborations,5,"If any, mention the artists you have collaborated with while working in this area.",both,0,0,10,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+106,Programs you dominate,10,Mention the programs and softwares you know how to use.,both,0,1,42,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+107,Artists Represented ,5,Mention the artists you have represented and/or currently represent.,both,0,0,43,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+108,Recording Labels Represented,5,Mention the record labels you have represented and/or currently represent.,both,0,0,43,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+109,Experience in,3,,both,0,0,44,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+110,Type,4,,both,0,0,45,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+111,Trombone Played,3,Choose the type or types of trombone you know how to play.,both,0,0,46,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+112,Instrument Owned,3,Choose the type or types of trombone you own.,both,0,0,46,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+113,Type,3,,both,0,0,48,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+114,Guitar Played,3,Choose the type or types of guitar that you know how to play.,both,0,0,49,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+115,Type of Guitar Owned,3,Choose the type or types of guitar that you own.,both,0,0,49,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+116,Violin Played,3,Choose the type or types of violin that you know how to play.,both,0,0,50,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+117,Type of Violin Owned,3,Choose the type or types of violin that you own.,both,0,0,50,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+118,Do you have a manager?,4,,both,0,0,18,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+119,Manager name,5,"If you answered yes, mention the name of your manager",both,0,0,18,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+120,Drums Played,4,Choose the types of drums that you know how to play.,both,0,0,52,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+121,Type of Drums Owned,4,Choose the types of drums that you own.,both,0,0,52,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+122,Percussion Instrument Played,10,Mention the percussion instruments that you know how to play.,both,0,1,53,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+123,Percussion Instrument Owned,10,Mention the percussion instruments that you own.,both,0,1,53,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+124,Piano Played,3,Choose the types of piano that you know how to play.,both,0,0,54,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+125,Type of Piano Owned,3,Choose the types of piano that you own.,both,0,0,54,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+126,Saxophone Played,3,Choose the type or types of saxophone that you know how to play.,both,0,0,55,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+127,Type of Saxophone Owned,3,Choose the type or types of saxophone that you own.,both,0,0,55,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+128,Flute Played,3,Choose the type or types of flute that you know how to play.,both,0,0,56,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+129,Type of Flute Owned,3,Choose the type or types of flute that you own.,both,0,0,56,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+130,Trumpet Played,3,Choose the type or types of trumpet that you know how to play.,both,0,0,57,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+131,Type of Trumpet Owned,3,Choose the type or types of trumpet that you own.,both,0,0,57,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+132,Do you belong to an academy?,4,,both,0,0,58,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+133,Academy Name,1,"If you answered yes, mention the name of the academy you belong to.",both,0,0,58,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+134,Bachata Danced,3,Choose the type or types of bachata you know how to dance.,both,0,0,59,,2019-05-15 22:09:26.0,2019-05-15 22:09:26.0
+135,Type of Ballet,3,Choose the type or types of ballet you specialize in.,both,0,0,60,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+136,Dance Type,3,,both,0,0,61,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+137,Speciality on,3,Choose the type of announcing you specialize in.,both,0,0,62,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+138,Speciality on,3,Choose the type of voice over where you have the most experience.,both,0,0,64,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+139,Speciality on,3,Choose your speciality,both,0,0,65,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+140,Experience in,3,Choose the ones where you have the most experience.,both,0,0,66,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+141,Movies or Plays,5,Mention the movies or plays where you have participated.,both,0,0,67,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+142,Role(s),3,Choose the role or roles you have worked as.,both,0,0,67,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+143,Artist Collaborations,5,"If any, mention collaborations you have had with artists in this area.",both,0,0,67,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+144,Movie / Theatre Genre,10,Mention the genres where you have had experience.,both,0,1,67,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+145,Filmography / Theatre Credits,5,Mention the movies where you have worked.,both,0,0,69,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+146,Type of Experience,3,Choose the places where you have participated as a director.,both,0,0,69,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+147,Artist Collaborations,5,"If any, mention collaborations you have had with artists in this area.",both,0,0,69,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+148,Type of Comedy,3,Choose the type of comedy you specialise in.,both,0,0,71,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+149,Work Style,3,Choose the work style where you have the most experience.,both,0,0,71,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+150,Artist Collaborations,5,"If any, mention the artists you have collaborated with in this area.",both,0,0,71,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+151,Type of Narration,3,,both,0,0,72,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+152,Experience in,3,,both,0,0,73,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+153,Extra Info,5,,both,0,0,73,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+154,Speciality on,3,Choose the types of therapy you specialize in.,both,0,0,74,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+155,Equipment Used,10,Mention the photography equipment that you know how to use.,both,0,1,75,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+156,Equipment Owned,10,Mention the photography equipment that you own.,both,0,1,75,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+157,Type,3,,both,0,0,76,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+158,More Information,5,Add more comments about this skill.,both,0,0,77,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+159,Experience in,3,Choose the places in which this skill has worked.,both,0,0,77,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+160,Filmography,5,Mention the movies you have worked at.,both,0,0,78,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+161,Specialty,3,,both,0,0,78,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+162,Programs you dominate,10,Mention the illustration programs you tend to use.,both,0,1,78,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+163,Type of Costume,3,Choose the types of costume that you do.,both,0,0,79,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+164,Experience in,3,Choose the places where you have worked as costume designer.,both,0,0,79,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+165,Experience in,3,,both,0,0,80,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+166,Type of Design,3,,both,0,0,80,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+167,Type of Photoshoot,3,Choose the types of photoshoots you specialise in.,both,0,0,81,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+168,Experience in,3,,both,0,0,81,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+169,Striking Sports,10,Choose the types of striking sports you have experience in.,both,0,1,82,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+170,Type of Polo,3,Choose the type of polo you play.,both,0,0,83,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+171,Position Played,3,Select in which position you currently play.,both,0,0,84,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+172,Speciality on,3,,both,0,0,85,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+173,Type of Martial Art,10,Mention the type of martial art you practice or teach.,both,0,1,86,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+174,Experience with,3,Choose the type of clients you have experience training.,both,0,0,87,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+175,Swimming Techniques,10,Choose the types of technique you have experience with.,both,0,1,88,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+176,Other Types,3,Choose any other types of swimming you practice.,both,0,0,88,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+177,Position,3,Choose the position you play.,both,0,0,89,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+178,Position,3,,both,0,0,90,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+179,Volleyball Type,10,Which variant you practice?,both,0,1,91,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+180,Position,3,What position do you play?,both,0,0,92,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+181,Game Type,3,,both,0,0,93,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+182,Discipline,3,Choose the discipline you practice.,both,0,0,94,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+183,On Ice,3,Select the ice skating disciplines you practice.,both,0,0,95,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+184,Type,3,,both,0,0,97,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+185,Jumps,10,,both,0,1,98,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+186,Landings,10,,both,0,1,98,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+187,Moves,10,,both,0,1,98,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+188,Game Category,3,Choose the game categories you have experience in.,both,0,0,100,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+189,Games Played,10,Mention the games you tend to play.,both,0,1,100,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+190,Console / Platform Used,10,Mention the platforms and consoles you know how to use.,both,0,1,101,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+191,Console / Platform Owned,10,Mention the platforms and consoles you own.,both,0,1,101,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+192,Exercises you practice,10,,both,0,1,102,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+193,Exercises you practice,10,,both,0,1,103,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+194,Experience in,3,Choose the work styles where you have the most experience.,both,0,0,104,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+195,Specialty,3,,both,0,0,105,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+196,Experience as,3,,both,0,0,106,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+197,Specialty,3,Choose your knowledge areas.,both,0,0,106,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+198,Events,10,Mention the types of events you have experience organizing,both,0,1,107,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+199,Number of Guests,2,Choose the approximate amount of guests that you tend to organize events for.,both,0,0,107,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+200,Type of Activity,3,Choose the activities you specialize in.,both,0,0,108,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+201,Type of Activity,3,Choose the activities you specialize in.,both,0,0,109,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+202,Type of Activity,3,Choose the activities you specialize in.,both,0,0,110,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+203,Type of Activity,3,Choose the activities you specialize in.,both,0,0,111,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+204,Activities,3,Choose the activities you specialize in.,both,0,0,112,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+205,Transmission Medium,3,,both,0,0,113,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+206,Type of Journalism,3,,both,0,0,113,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+207,Poet,3,Choose the type of poetry you specialize in.,both,0,0,115,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+208,Novelist,3,Choose the types of novels you specialize in.,both,0,0,115,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+209,Satirist,3,Choose the type of satire you specialize in.,both,0,0,115,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+210,Stories,3,Choose the types of stories you specialize in.,both,0,0,115,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+211,Types of Writings,3,,both,0,0,116,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+212,Type of Writer,3,Choose the types of writings you do.,both,0,0,117,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+213,Genre,10,Mention the genres you specialize in.,both,0,1,114,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+214,Experience in,3,,both,0,0,114,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+215,Type of Reporter,3,,both,0,0,118,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+216,Discovered Talents,5,Mention the talents you manage or have discovered.,both,0,0,119,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+217,Type of Sculpture,3,Choose the types of sculptures you specialize in.,both,0,0,120,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+218,Materials Used,3,Choose the materials you tend to use in your sculptures.,both,0,0,120,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+219,Type,3,Select the type of paint in which you specialize.,both,0,0,121,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+220,Techniques Used,3,Select the techniques you use in your paintings.,both,0,0,121,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+221,Type of Drawing,3,Select the type of drawing in which you specialize.,both,0,0,122,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+222,Materials Used,3,Select the materials you use in your drawings.,both,0,0,122,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+223,Specialty on,3,Choose the type of architecture you specialize in.,both,0,0,123,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+224,Specialty on,3,,both,0,0,124,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+225,Specialty on,3,Select the design types in which you specialize.,both,0,0,125,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+226,Experience in,3,,both,0,0,126,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+227,Equipments Used,10,Mention any special cooking equipment you dominate and tend tu use.,both,0,1,126,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+228,Equipments Owned,10,Mention any special cooking equipment you own.,both,0,1,126,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+229,Work Style,4,Choose the work style where you have the most experience.,both,0,0,127,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+230,Type of Food,10,Mention the type or types of food you specialize in.,both,0,1,127,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+231,Type of Cooking,3,,both,0,0,127,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+232,Specialty,3,,both,0,0,128,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+233,Types of Desserts,3,Choose the types of desserts you specialize in.,both,0,0,129,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+234,Types of Breads,3,,both,0,0,130,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+235,Experience in,3,,both,0,0,131,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+236,Specialty on,10,Select the type of beer in which you specialize.,both,0,1,132,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+237,Subject(s) you Teach,10,Mention the subjects you dominate and have taught.,both,0,1,133,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+238,Grade(s) or Career(s),5,Mention the grades or careers you have taught to.,both,0,0,133,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+239,Level,2,Select the level of study in which you are.,both,0,0,134,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+240,Career or Grade,10,Mention the career or grade you're in.,both,0,1,134,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+241,Type,3,,both,0,0,135,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+242,Website(s) Developed,5,Mention the websites you have created.,both,0,0,135,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+243,Type,3,Choose the softwares you develop apps for.,both,0,0,136,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+244,App(s) Developed,5,Mention the apps you have created.,both,0,0,136,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+245,Game Category,10,Mention the game categories you specialize in.,both,0,1,137,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+246,Platform or Console,10,Mention the platforms or consoles you make games for.,both,0,1,137,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+247,Game(s) Developed,5,Mention the games you have created.,both,0,0,137,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+248,Type,3,,both,0,0,138,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+249,Specialty,3,,both,0,0,138,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+250,Specialties,3,,both,0,0,139,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+251,Specialties,3,,both,0,0,140,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+252,Type,4,,both,0,0,140,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+253,Type,3,,both,0,0,141,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+254,Type of Sale,4,,both,0,0,142,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+255,Method Used,3,,both,0,0,142,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+256,Specialties,3,,both,0,0,143,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+257,Jumps,3,,both,0,0,144,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+258,Specialty on,3,Choose the type of pegeant you specialize in.,both,0,0,145,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+259,Courses and Workshops,3,Select the courses or workshops you offer.,both,0,0,145,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+260,Sponsors and Allies,5,Mention the sponsors and allies of your pageants.,both,0,0,146,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+261,Other Pageants,5,"Mention any pageants, outside of yours, in which you have participated.",both,0,0,146,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+262,Category of Cosmetics,3,Choose the category of cosmetics you manufacture.,both,0,0,147,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+263,Category of Cosmetics,3,Choose the categories of cosmetics you sell.,both,0,0,148,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+264,Type of Sale,4,,both,0,0,148,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+265,Sales Channel(s),3,,both,0,0,148,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+266,Type of Clothing,3,Choose the types of clothing you offer.,both,0,0,149,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+267,Type of Sale,4,,both,0,0,149,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+268,Specialties,3,,both,0,0,150,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+269,Experience in,3,,both,0,0,150,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+270,Specialty on,3,Choose the accessories you offer.,both,0,0,151,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+271,Type of Sale,4,,both,0,0,151,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+272,Accessories,3,,both,0,0,152,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+273,Type of Sale,4,,both,0,0,152,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+274,Clothing,3,,both,0,0,152,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+275,Specialty on,3,,both,0,0,153,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+276,Accessories,3,,both,0,0,29,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+277,Clothing,3,,both,0,0,29,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+278,Postproduction,3,,both,0,0,155,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+279,Specialty on,3,,both,0,0,156,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+280,Type of Client,3,,both,0,0,156,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+281,Distinguished Models,5,Mention the distinguished models you have represented or managed.,both,0,0,156,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+282,Analog Recording,3,,both,0,0,158,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+283,Digital Recording,3,,both,0,0,158,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+284,Artist Collaborations,5,,both,0,0,157,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+285,Programs Used ,10,Mention the programs and softwares you know how to use.,both,0,1,157,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+286,Specialty on,3,,both,0,0,159,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+287,Courses & Workshops of,3,Select the courses and workshops you offer.,both,0,0,159,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+288,Type of Mixing,3,,both,0,0,160,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+289,Type of Dance,10,,both,0,1,161,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+290,Specialty,3,,both,0,0,161,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+291,Music Genre,10,,both,0,1,162,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+292,Instruments,10,,both,0,1,162,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+293,Music Genre,10,,both,0,1,163,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+294,Instruments,10,,both,0,1,163,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+295,Services,3,,both,0,0,164,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+296,Sale Method,3,,both,0,0,164,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+297,Publishing Platform,10,Mention the platforms in which you offer digital distribution.,both,0,1,164,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+298,Services,3,,both,0,0,165,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+299,Experience with,3,,both,0,0,166,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+300,Distinguished Artists,5,Mention the distinguished artists or groups that you have managed.,both,0,0,166,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+301,Type of Events,10,Specify the types of events you organize.,both,0,1,167,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+302,Number of Guests,2,Choose the approximate amount of guests that you tend to organize events for.,both,0,0,167,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+303,Type of Events,10,Specify the types of events you assemble.,both,0,1,168,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+304,Specialties,3,,both,0,0,169,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+305,Station Frequency,1,,both,0,0,169,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+306,Specialties,3,,both,0,0,170,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+307,Station Frequency,1,,both,0,0,170,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+308,Specialties,3,,both,0,0,171,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+309,Station Frequency,1,,both,0,0,171,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+310,Specialties,3,,both,0,0,172,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+311,Type of Channel,3,,both,0,0,172,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+312,Channel,5,,both,0,0,172,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+313,Type of Channel,3,,both,0,0,173,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+314,Channel,5,,both,0,0,173,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+315,Type of Channel,3,,both,0,0,174,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+316,Channel,5,,both,0,0,174,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+317,Specialties,3,,both,0,0,174,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+318,Equipment Available,10,Mention the equipment you offer.,both,0,1,175,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+319,Specialties,3,,both,0,0,176,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+320,Experience with,3,,both,0,0,177,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+321,Experience with,3,,both,0,0,178,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+322,Brand Collaborations,5,,both,0,0,178,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+323,Equipment Offered,10,,both,0,1,168,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+324,Type of Press,3,,both,0,0,179,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+325,Launch Time,2,,both,0,0,180,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+326,Type of Press,3,,both,0,0,180,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+327,Specialties,3,,both,0,0,181,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+328,Movie Genre,10,,both,0,1,181,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+329,Filmography,5,Mention the movies where you have worked.,both,0,0,181,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+330,Specialties,3,,both,0,0,182,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+331,Movie Genre,10,,both,0,1,182,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+332,Filmography,5,Mention the movies where you have worked.,both,0,0,182,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+333,Specialties,3,,both,0,0,183,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+334,Movie Genre,10,,both,0,1,183,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+335,Filmography,5,Mention the movies where you have worked.,both,0,0,183,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+336,Equipment Available,10,Mention the equipment you offer.,both,0,1,185,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+337,Specialties,3,,both,0,0,184,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+338,Services,3,,both,0,0,187,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+339,Sport Played,10,,both,0,1,188,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+340,Number of Teammates,5,,both,0,0,188,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+341,Sport,3,,both,0,0,189,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+342,Game(s),3,,both,0,0,190,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+343,Type of Poker,3,,both,0,0,191,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+344,Types,3,,both,0,0,192,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+345,Number of Trainers,5,,both,0,0,193,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+346,Training,3,Choose the types of training you offer,both,0,0,193,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+347,Services,3,,both,0,0,194,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+348,Types,3,Choose the types of programs you offer.,both,0,0,195,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+349,Services,3,,both,0,0,196,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+350,Type of Agency,3,,both,0,0,197,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+351,Type of Hotel,2,,both,0,0,198,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+352,Lodgings Plans,3,Choose the food plan you offer.,both,0,0,198,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+353,Airline Category,3,Choose which category of airline belongs,both,0,0,199,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+354,Printing System,3,,both,0,0,200,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+355,Type of Editing,3,Select the types of edition you use.,both,0,0,201,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+356,Specialties,3,,both,0,0,202,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+357,Types,3,Choose the theater genre you specialize in.,both,0,0,203,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+358,Play(s),5,Mention the plays that have been presented in this theater.,both,0,0,203,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+359,Type of Gallery,2,,both,0,0,204,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+360,Classes Offered,3,,both,0,0,205,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+361,Exhibitions,3,,both,0,0,206,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+362,Specialties,3,,both,0,0,207,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+363,Specialties,3,,both,0,0,208,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+364,Location,3,,both,0,0,209,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+365,Style,10,,both,0,1,210,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+366,Representations,3,,both,0,0,211,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+367,Specialties,3,,both,0,0,211,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+368,Type of Structure,3,,both,0,0,211,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+369,Type of Structure,3,,both,0,0,124,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+370,Type of Structure,3,,both,0,0,213,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+371,Specialty,3,,both,0,0,212,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+372,Specialty,3,,both,0,0,214,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+373,Work Style,3,,both,0,0,214,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+374,Specialty,3,,both,0,0,215,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+375,Specialty,3,,both,0,0,217,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+376,Specialty,3,,both,0,0,218,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+377,Location,3,,both,0,0,218,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+378,Theme,10,,both,0,1,216,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+379,Services,3,,both,0,0,219,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+380,Beers Offered,10,,both,0,1,220,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+381,Services,3,,both,0,0,221,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+382,Types of Wine,3,,both,0,0,221,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+383,Products,3,,both,0,0,222,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+384,Languages,10,Mention the language(s) that are taught in this school,both,0,1,224,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+385,Specialties,3,,both,0,0,128,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+386,Careers Offered,10,,both,0,1,227,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+387,Degrees Offered,3,,both,0,0,227,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+388,Type of Databases,3,Choose the type of databases you develop.,both,0,0,138,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+389,Type of Software,3,Choose the type of software you develop.,both,0,0,225,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+390,Services Offered,3,,both,0,0,228,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+391,Specialties,3,,both,0,0,186,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+392,Collaborations,5,Mention collaborations that you have had with other academies or brands.,both,0,0,186,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+393,Way of Betting,4,,both,0,0,189,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+394,Gender,4,Choose the sexual gender you work with.,both,0,0,159,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+395,Preproduction,3,,both,0,0,155,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+396,Clientele,3,Choose the clientele you work with.,both,0,0,152,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+397,Clientele,3,Choose the gender you work with.,both,0,0,151,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+398,Speciality on,3,,both,0,0,38,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+399,Speciality on,4,,both,0,0,23,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+400,Agent,1,Name of the agent,both,0,0,18,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+401,Bass Played,3,Choose the type or types of bass that you play.,both,0,0,229,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+402,Type of Bass Owned,3,Choose the type or types of bass that you own.,both,0,0,229,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+403,Characteristics,3,Characteristics of your Bass. If you have one,both,0,0,229,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+404,Experience in,3,Select the places where this skill has worked.,both,0,0,64,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+405,Artists Collaborations,5,"If any, mention collaborations you have had with artists in this area.",both,0,0,64,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+406,Experience in,3,Choose the places in which you have participated as a presenter.,both,0,0,65,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+407,Artists Collaborations,5,"If any, mention collaborations you have had with artists in this area.",both,0,0,65,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+408,Experience in,3,Choose the places where you have worked as.,both,0,0,67,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+409,Film / Theatrical Genre,10,Mention the genres where you have had experience.,both,0,1,69,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+410,Experience in,3,Choose the places where you have worked as.,both,0,0,70,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+411,Speciality on,3,Select the type of combat in which you specialize.,both,0,0,70,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+412,Weapons Type,10,Choose the types of weapons that you know how to use.,both,0,1,70,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+413,Filmography / Theatre Credits,5,Write where you have worked as.,both,0,0,70,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+414,Types of Photography,3,Choose the types of photography that you do.,both,0,0,75,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+415,Speciality on,3,Select one or more specialties that you have.,both,0,0,79,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+416,Experience in,3,Choose the places where you have worked as.,both,0,0,231,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+417,Weapons type,10,Choose the types of weapons that you know how to use.,both,0,1,231,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+418,Filmography / Theatre Credits,5,Write where you have worked as.,both,0,0,231,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+419,Programs you dominate,10,Mention the programs and softwares you know how to use.,both,0,1,232,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+420,Programs you own,10,Mention the programs and softwares you own.,both,0,1,232,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+421,Programs you own,10,Mention the programs and softwares you own.,both,0,1,42,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+422,Programs you Dominate,10,Mention the programs and softwares you know how to use.,both,0,1,80,,2019-05-15 22:09:27.0,2019-05-15 22:09:27.0
+423,Grappling Sports,10,Choose the types of grappling sport you have experience in.,both,0,1,82,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+424,Hybrid sports,10,Choose the types of matches you have experience in.,both,0,1,82,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+425,Armed Sports,10,Select the armed combat types in which you have experience.,both,0,1,82,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+426,Striking Combats,10,Select the type of striking combat for which you offer training.,both,0,1,233,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+427,Grappling Combats,10,Select the type of grappling combat for which you offer training.,both,0,1,233,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+428,Hybrid Combats,10,Select the type of hybrid or mixed combat for which you offer training.,both,0,1,233,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+429,Armed Combat,10,Select the type of armed sport for which you offer training.,both,0,1,233,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+430,Do you belong to a team?,4,,both,0,0,84,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+431,Team Name,1,"If apply, write the name of your team.",both,0,0,84,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+432,Do you belong to a team?,4,,both,0,0,89,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+433,Team Name,1,"If apply, write the name of your team.",both,0,0,89,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+434,Team Name,1,"If apply, write the name of your team.",both,0,0,90,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+435,Do you belong to a team?,4,,both,0,0,90,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+436,Do you belong to a team?,4,,both,0,0,91,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+437,Team Name,1,"If apply, write the name of your team.",both,0,0,91,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+438,Do you belong to a team?,3,,both,0,0,92,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+439,Name of the Team,1,"If apply, write the name of your team.",both,0,0,92,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+440,First Debut,7,Specify the date when you debuted as a player.,both,0,0,92,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+441,Bats,4,Specify your swing,both,0,0,92,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+442,Throws,4,Specify how you throw,both,0,0,92,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+443,AVG,1,Batting average,both,0,0,92,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+444,HR,1,Total home runs until today,both,0,0,92,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+445,RBIs,1,Total run batted in until today,both,0,0,92,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+446,Position,3,,both,0,0,91,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+447,Do you belong to a team?,4,,both,0,0,93,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+448,Team Name,1,"If apply, write the name of your team.",both,0,0,93,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+449,Position,3,What position do you play?,both,0,0,93,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+450,First Debut,7,First debut as a player,both,0,0,93,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+451,Shoots,4,Specify how you shoot.,both,0,0,93,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+452,First Debut,7,Specify the date when you debuted as an athlete.,both,0,0,94,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+453,First Debut,7,Specify the date when you debuted as a player.,both,0,0,91,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+454,First Debut,7,Specify the date when you debuted as a wrestler.,both,0,0,82,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+455,First Debut,7,Specify the date when you debuted as a coach.,both,0,0,233,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+456,First Debut,7,Specify the date when you debuted as a player.,both,0,0,84,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+457,Goals Scored,1,How many goals have you scored,both,0,0,84,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+458,First Debut,7,Specify the date when you debuted as a swimmer.,both,0,0,88,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+459,First Debut,7,Specify the date when you debuted as a player.,both,0,0,89,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+460,On Rollers,3,,both,0,0,95,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+461,First Debut,7,Specify the date when you debuted as a skater.,both,0,0,95,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+462,Sprints,3,,both,0,0,230,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+463,Middle-distance,3,,both,0,0,230,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+464,Relays,3,,both,0,0,230,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+465,Hurdles,3,,both,0,0,230,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+466,Throws,3,,both,0,0,144,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+467,Racewalking,3,,both,0,0,144,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+468,Combined Events,3,,both,0,0,144,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+469,Endurance,3,Long-distance running,both,0,0,230,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+470,Frist Debut,7,Specify the date when you first debuted as a player.,both,0,0,97,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+471,Plays,4,,both,0,0,97,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+472,Best Ranking,1,,both,0,0,97,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+473,Current Ranking,1,,both,0,0,97,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+474,Coach,1,,both,0,0,97,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+475,Win Matches,1,,both,0,0,97,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+476,Lost Matches,1,,both,0,0,97,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+477,Do you belong to a team?,4,,both,0,0,83,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+478,Team Name,1,"If apply, write the name of your team.",both,0,0,83,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+479,Best Ranking,1,,both,0,0,83,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+480,First Debut,7,Specify the date when you debuted as a player.,both,0,0,83,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+481,First Debut,7,Specify the date when you debuted as a player.,both,0,0,90,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+482,Type,3,Specify the type of personal trainer that you are.,both,0,0,68,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+483,Game Type,3,Choose the type of games you have experience in.,both,0,0,100,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+484,Game Category,3,Choose the game categories you have experience in.,both,0,0,234,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+485,Games Played,10,Mention the games you tend to play.,both,0,1,234,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+486,Type of Work,3,Choose the types of work you have experience in.,both,0,0,114,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+487,Style,10,Select the architecture styles in which you have experience.,both,0,1,123,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+488,Programs you Own,10,Mention the programs and softwares you know how to use.,both,0,1,80,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+489,Programs you own,10,Mention the illustration programs you own.,both,0,1,78,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+490,Institution(s),5,Mention the institutions where you have worked with.,both,0,0,133,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+491,Our Pageants,5,Mention all your pageants.,both,0,0,146,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+492,Types,3,Choose the type of cosmetics you manufacture.,both,0,0,147,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+493,Categories,3,,both,0,0,149,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+494,Clientele,3,Select the type of clientele in which you specialize.,both,0,0,149,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+495,Sales Channel(s),3,Select all the selling channels that apply to your store.,both,0,0,149,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+496,Footwear,3,,both,0,0,152,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+497,Selling Channel(s),3,,both,0,0,151,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+498,Type of Sale,3,,both,0,0,153,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+499,Selling Channel(s),3,,both,0,0,153,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+500,Clientele,3,,both,0,0,29,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+501,Footwear,3,,both,0,0,29,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+502,Type of Sale,4,,both,0,0,29,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+503,Programs Used,10,Mention the programs and softwares you know how to use.,both,0,1,160,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+504,Collaboration with artists,5,Mention all collaboration with artist you have in this area.,both,0,0,160,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+505,Band Members,5,Mention the members of the band or orchestra.,both,0,0,162,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+506,Artists Represented,5,Mention the artists you have represented and/or currently represent.,both,0,0,150,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+507,Subject(s),10,Mention the type or types of subjects you publish.,both,0,1,180,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+508,Type,3,,both,0,0,179,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+509,Subject(s),10,Mention the type or types of subjects you publish.,both,0,1,179,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+510,Experience with,3,,both,0,0,184,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+511,Specialties,3,,both,0,0,40,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+512,Location,3,,both,0,0,210,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+513,Style,10,,both,0,1,235,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+514,Location,3,,both,0,0,235,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+515,Michelin Stars,2,,both,0,0,235,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+516,Style,10,,both,0,1,236,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+517,Location,3,,both,0,0,236,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+518,Michelin Stars,2,,both,0,0,236,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+519,Michelin Stars,2,,both,0,0,209,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+520,Type of Institute,4,,both,0,0,96,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0
+521,Career / Study Topic,10,,both,0,1,96,,2019-05-15 22:09:28.0,2019-05-15 22:09:28.0

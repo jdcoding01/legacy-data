@@ -1,0 +1,87 @@
+occupation_id,type,parent_id,occupation_name,icon,occu_desc,created_at,updated_at
+1,0,0,"{""en"": ""Beauty & Fashion"", ""es"": ""Belleza & Moda""}",fashion.png,"{""en"": ""(Click here to view options)"", ""es"": ""(Presione aquí para ver opciones)""}",0000-00-00 00:00:00,2017-11-27 15:07:00.0
+2,0,0,"{""en"": ""Music & Dance"", ""es"": ""Música & Baile""}",music.png,"{""en"": ""(Click here to view options)"", ""es"": ""(Presione aquí para ver opciones)""}",0000-00-00 00:00:00,2017-11-27 14:56:17.0
+3,0,0,"{""en"": ""Film, T.V. & Ent."", ""es"": ""Cine, T.V. & Ent.""}",film-and-entertainment.png,"{""en"": ""(Click here to view options)"", ""es"": ""(Presione aquí para ver opciones)""}",0000-00-00 00:00:00,2017-11-15 15:49:55.0
+4,0,0,"{""en"": ""Recreations & Sports"", ""es"": ""Deportes & Recreacón""}",sports.png,"{""en"": ""(Click here to view options)"", ""es"": ""(Presione aquí para ver opciones)""}",0000-00-00 00:00:00,2017-11-15 15:54:56.0
+5,0,0,"{""en"": ""Other Arts"", ""es"": ""Otras Artes""}",artist.png,"{""en"": ""(Click here to view options)"", ""es"": ""(Presione aquí para ver opciones)""}",0000-00-00 00:00:00,2017-11-13 17:52:05.0
+6,0,0,"{""en"": ""Foods & Drinks"", ""es"": ""Alimentos & Bebidas""}",food-and-drink.png,"{""en"": ""(Click here to view options)"", ""es"": ""(Presione aquí para ver opciones)""}",0000-00-00 00:00:00,2017-11-27 14:59:58.0
+7,0,0,"{""en"": ""Education"", ""es"": ""Educación""}",education.png,"{""en"": ""(Click here to view options)"", ""es"": ""(Presione aquí para ver opciones)""}",0000-00-00 00:00:00,2017-11-13 17:51:49.0
+8,0,0,"{""en"": ""Business & Techology"", ""es"": ""Negocios & Tecnología ""}",it.png,"{""en"": ""(Click here to view options)"", ""es"": ""(Presione aquí para ver opciones)""}",0000-00-00 00:00:00,2017-11-15 20:49:33.0
+11,0,1,"{""en"": ""Beauty Pageant"", ""es"": ""Concurso de Belleza""}","","{""en"": ""."", ""es"": "".""}",2017-09-21 13:46:15.0,2018-04-19 20:29:26.0
+14,0,2,"{""en"": ""Music Production"", ""es"": ""Producción Musical""}","","{""en"": ""Musical producer"", ""es"": ""Productor musical""}",2017-09-21 13:47:58.0,2018-04-19 20:30:20.0
+15,0,2,"{""en"": ""Musical Composition"", ""es"": ""Composición Musical""}","","{""en"": ""composition"", ""es"": ""Composición""}",2017-09-21 13:48:19.0,2018-04-19 20:30:05.0
+16,0,2,"{""en"": ""Musician"", ""es"": ""Músico""}","","{""en"": ""Musician"", ""es"": ""Músico""}",2017-09-21 13:48:41.0,2017-11-13 17:31:30.0
+17,0,2,"{""en"": ""Dancing"", ""es"": ""Baile""}","","{""en"": ""Dancer"", ""es"": ""Bailarín / Bailarina""}",2017-09-21 13:49:01.0,2017-11-15 14:55:13.0
+18,0,2,"{""en"": ""Singer"", ""es"": ""Cantante""}","","{""en"": ""Singer"", ""es"": ""Cantante""}",2017-09-21 13:49:18.0,2018-01-19 20:37:03.0
+19,0,3,"{""en"": ""Radio"", ""es"": ""Radio""}","","{""en"": ""."", ""es"": "".""}",2017-09-21 13:49:45.0,2017-11-15 15:36:26.0
+20,0,3,"{""en"": ""Acting"", ""es"": ""Actuación""}","","{""en"": ""."", ""es"": "".""}",2017-09-21 13:50:08.0,2017-11-15 14:51:56.0
+21,0,3,"{""en"": ""Filmmaking"", ""es"": ""Rodaje Cinematográfico""}","","{""en"": ""Include story, idea, or commission, through screenwriting, casting, shooting, sound recording and reproduction, editing and screening"", ""es"": ""Se lleva a cabo a partir de un guión, el reparto, el rodaje, la grabación del sonido y la reproducción, edición, y proyección del resultado final ante una audiencia que puede desencadenar en un estreno y exhibición de la película.""}",2017-09-21 13:50:35.0,2018-04-18 14:47:39.0
+23,0,3,"{""en"": ""Events & Promotions"", ""es"": ""Eventos y Promociones""}","","{""en"": ""events"", ""es"": ""events""}",2017-09-21 13:51:16.0,2018-09-27 16:27:52.0
+24,0,3,"{""en"": ""Speaker"", ""es"": ""Oratoria""}","","{""en"": ""Politic speaker, public speaker"", ""es"": ""Politico, orador profesional.""}",2017-09-21 13:51:38.0,2017-11-15 15:35:27.0
+25,0,3,"{""en"": ""Photography"", ""es"": ""Fotografía""}","","{""en"": ""."", ""es"": "".""}",2017-09-21 13:52:11.0,2017-11-15 14:53:02.0
+27,0,4,"{""en"": ""Athletes & Coaches"", ""es"": ""Atletas y Entrenadores""}","","{""en"": ""Coaching, mentoring, etc."", ""es"": ""Entrenamientos, mentorias, etc.""}",2017-09-21 13:52:55.0,2018-09-26 15:01:39.0
+28,0,4,"{""en"": ""Games & Video Games"", ""es"": ""Juegos y Videojuegos""}","","{""en"": ""."", ""es"": "".""}",2017-09-21 13:53:18.0,2018-11-06 21:43:48.0
+29,0,4,"{""en"": ""Tourism & Travel"", ""es"": ""Turismo y Viajes""}","","{""en"": ""Tourism, Travel, Outdoor, recreation, outdoor activities"", ""es"": ""Turismo,  Viajes, Actividades y recreaciones al aire libre""}",2017-09-21 13:53:52.0,2018-04-02 16:00:41.0
+30,0,4,"{""en"": ""Fisical Activities"", ""es"": ""Actividad Física""}","","{""en"": ""Athletes"", ""es"": ""Atletas""}",2017-09-21 13:54:09.0,2018-04-19 20:28:33.0
+31,0,5,"{""en"": ""Writing"", ""es"": ""Escritura""}","","{""en"": ""Writer, poet, novelist, "", ""es"": ""Bloguero, escritor, poeta, cuentista""}",2017-09-21 13:54:31.0,2017-11-15 16:19:48.0
+32,0,5,"{""en"": ""Performing Arts"", ""es"": ""Artes Escénicas""}","","{""en"": ""Theatre, music, dance, and other kinds of performances"", ""es"": ""el teatro, la danza, la música, el cine""}",2017-09-21 13:55:21.0,2018-04-19 20:23:03.0
+33,0,5,"{""en"": ""Sculpture"", ""es"": ""Escultura""}","","{""en"": ""Sculptor"", ""es"": ""Escultor""}",2017-09-21 13:55:59.0,2017-11-15 16:27:29.0
+37,0,8,"{""en"": ""Developer"", ""es"": ""Desarrollador""}","","{""en"": ""Developer "", ""es"": ""Desarrollador""}",2017-10-12 21:03:44.0,2017-11-27 19:54:56.0
+40,0,1,"{""en"": ""Cosmetology"", ""es"": ""Cosmetología""}","","{""en"": ""."", ""es"": "".""}",2017-11-13 17:47:17.0,2018-04-12 16:36:56.0
+42,0,1,"{""en"": ""Design & Manufacturing"", ""es"": ""Diseño y Manufactura""}","","{""en"": ""."", ""es"": "".""}",2017-11-14 14:52:45.0,2018-12-26 16:27:51.0
+43,0,1,"{""en"": ""Modeling"", ""es"": ""Modelaje""}","","{""en"": ""."", ""es"": "".""}",2017-11-14 14:54:57.0,2017-11-15 15:10:48.0
+44,0,1,"{""en"": ""Fashion Coordinator"", ""es"": ""Coordinador de Moda""}","","{""en"": ""Fashion coordinator."", ""es"": ""Coordinador de moda""}",2017-11-14 15:21:29.0,2018-04-19 20:29:43.0
+45,0,4,"{""en"": ""Fisical Workout"", ""es"": ""Ejercicio Físico""}","","{""en"": ""Athletes"", ""es"": ""el ajedrez, el tiro deportivo o los deportes electrónicos, el tiro con arco, el automovilismo, el billar, entre otros.""}",2017-11-15 16:06:31.0,2018-04-19 20:28:51.0
+46,0,5,"{""en"": ""Drawing & Painting"", ""es"": ""Dibujo & Pintura""}","","{""en"": ""Paint, muralist, drafter, draftman, painter,sketch, sketcher, "", ""es"": ""Pintor, muralista, dibujante, delineante, boceto, bocetante""}",2017-11-15 16:28:50.0,2017-11-20 17:12:39.0
+47,0,5,"{""en"": ""Architecture"", ""es"": ""Arquitectura""}","","{""en"": ""Architect"", ""es"": ""Arquitecto""}",2017-11-15 16:30:05.0,2017-11-20 17:17:16.0
+48,0,5,"{""en"": ""Digital Art"", ""es"": ""Arte Digital""}","","{""en"": ""Animator, visual effects, graphic design"", ""es"": ""Animador, efectos visuales, diseño gráfico""}",2017-11-15 16:33:19.0,2018-04-19 20:22:39.0
+49,0,6,"{""en"": ""Culinary Art"", ""es"": ""Arte Culinario""}","","{""en"": ""Chef, cook, sous chef, saucier, boucher, Poissoner "", ""es"": ""Sous Chef Chef de Partie Chef de Línea Chef de Salsas / Saucier Chef de el Pescado / Poissoner Chef de Verduras / Entremetier Chef de Asados / Rottiseur Chef de Frituras / Friturie Chef Ejecutivo Chef Pastry Chef Repostero / Patisseur Panadero Carnicero / boucher""}",2017-11-15 16:41:37.0,2018-04-19 20:22:03.0
+50,0,6,"{""en"": ""Bar"", ""es"": ""Bar""}","","{""en"": ""Barman, barmaid, bartender"", ""es"": ""Bartender, Mixologo, cantinero, cantina""}",2017-11-15 16:52:07.0,2017-11-15 16:52:07.0
+51,0,7,"{""en"": ""Professor"", ""es"": ""Profesor""}","","{""en"": ""(Click here to view options)"", ""es"": ""(Presione aquí para ver opciones)""}",2017-11-15 16:55:07.0,2017-11-15 16:55:07.0
+52,0,7,"{""en"": ""Student"", ""es"": ""Estudiante""}","","{""en"": ""(Click here to view options)"", ""es"": ""(Presione aquí para ver opciones)""}",2017-11-15 16:57:15.0,2017-11-15 16:57:15.0
+53,1,0,"{""en"": ""Beauty & Fashion"", ""es"": ""Belleza & Moda""}",fashion.png,"{""en"": ""(Click here to view options)"", ""es"": ""(Presione aquí para ver opciones)""}",2017-11-27 14:15:20.0,2018-06-26 19:50:51.0
+54,1,53,"{""en"": ""Beauty"", ""es"": ""Belleza""}","","{""en"": ""Pegeant"", ""es"": ""Desfiles""}",2017-11-27 14:15:49.0,2018-06-22 18:19:51.0
+55,1,0,"{""en"": ""Music, Dance & Ent."", ""es"": ""Música, Baile & Ent.""}",music.png,"{""en"": ""(Click here to view options)"", ""es"": ""(Presione aquí para ver opciones)""}",2017-11-27 14:46:24.0,2018-04-16 19:55:38.0
+56,1,0,"{""en"": ""Film, T.V. & Radio"", ""es"": ""Cine, T.V. & Radio""}",film-and-entertainment.png,"{""en"": ""(Click here to view options)"", ""es"": ""(Presione aquí para ver opciones)""}",2017-11-27 14:53:24.0,2018-04-16 19:54:22.0
+57,1,0,"{""en"": ""Sports & Recreations"", ""es"": ""Deportes & Recreacón""}",sports.png,"{""en"": ""(Click here to view options)"", ""es"": ""(Presione aquí para ver opciones)""}",2017-11-27 14:54:51.0,2017-11-27 14:57:28.0
+58,1,0,"{""en"": ""Other Arts"", ""es"": ""Otras Artes""}",artist.png,"{""en"": ""(Click here to view options)"", ""es"": ""(Presione aquí para ver opciones)""}",2017-11-27 14:58:28.0,2017-11-27 14:58:28.0
+59,1,0,"{""en"": ""Foods & Drinks"", ""es"": ""Alimentos & Bebidas""}",food-and-drink.png,"{""en"": ""(Click here to view options)"", ""es"": ""(Presione aquí para ver opciones)""}",2017-11-27 14:59:41.0,2017-11-27 14:59:41.0
+60,1,0,"{""en"": ""Education"", ""es"": ""Educación""}",education.png,"{""en"": ""(Click here to view options)"", ""es"": ""(Presione aquí para ver opciones)""}",2017-11-27 15:00:35.0,2017-11-27 15:00:35.0
+61,1,0,"{""en"": ""Business & Technology"", ""es"": "" Negocios & Tecnología""}",it.png,"{""en"": ""(Click here to view options)"", ""es"": ""(Presione aquí para ver opciones)""}",2017-11-27 15:01:12.0,2017-11-27 15:01:12.0
+62,1,53,"{""en"": ""Cosmetics"", ""es"": "" Cosmética""}","","{""en"": ""Fragance, Creams and more"", ""es"": ""Fragancias, cremas y mas""}",2017-11-27 15:39:08.0,2017-11-27 15:39:19.0
+63,1,53,"{""en"": ""Fashion industry"", ""es"": ""Industria de la Moda""}","","{""en"": ""."", ""es"": "".""}",2017-11-27 15:40:36.0,2018-04-05 18:50:19.0
+64,1,53,"{""en"": ""Modeling Industry"", ""es"": ""Industria de Modelaje""}","","{""en"": ""."", ""es"": "".""}",2017-11-27 15:41:32.0,2018-04-16 19:42:35.0
+65,1,55,"{""en"": ""Record studio"", ""es"": ""Estudio de Grabación""}","","{""en"": ""."", ""es"": "".""}",2017-11-27 17:36:28.0,2018-06-22 18:24:26.0
+66,1,55,"{""en"": ""Dance"", ""es"": ""Baile""}","","{""en"": ""."", ""es"": "".""}",2017-11-27 17:38:13.0,2018-06-22 18:44:27.0
+67,1,56,"{""en"": ""Radio Stations"", ""es"": ""Estación de Radio""}","","{""en"": ""."", ""es"": "".""}",2017-11-27 17:42:07.0,2018-04-16 20:08:09.0
+68,1,56,"{""en"": ""T.V. Stations"", ""es"": ""Estación de T.V.""}","","{""en"": ""."", ""es"": "".""}",2017-11-27 17:44:56.0,2018-04-05 16:43:22.0
+69,1,56,"{""en"": ""Photography studio"", ""es"": ""Estudio fotográfico""}","","{""en"": ""."", ""es"": "".""}",2017-11-27 17:46:42.0,2018-10-10 15:54:26.0
+70,1,55,"{""en"": ""Music"", ""es"": ""Música""}","","{""en"": ""."", ""es"": "".""}",2017-11-27 17:47:20.0,2018-06-22 18:20:17.0
+72,1,57,"{""en"": ""Sports club"", ""es"": ""Club Deportivo""}","","{""en"": ""."", ""es"": "".""}",2017-11-27 18:36:10.0,2018-04-09 15:47:10.0
+73,1,57,"{""en"": ""Games & Bets"", ""es"": ""Juegos y Apuestas""}","","{""en"": ""."", ""es"": "".""}",2017-11-27 18:40:57.0,2018-04-09 15:56:48.0
+74,1,57,"{""en"": ""Fitness Centre"", ""es"": ""Gimnasio""}","","{""en"": ""."", ""es"": "".""}",2017-11-27 18:45:05.0,2018-04-09 15:55:32.0
+75,1,57,"{""en"": ""Tourism"", ""es"": ""Turismo""}","","{""en"": ""."", ""es"": "".""}",2017-11-27 18:51:27.0,2018-04-09 19:17:36.0
+76,1,58,"{""en"": ""Publishing Company"", ""es"": ""Publicación y Edición""}","","{""en"": ""."", ""es"": "".""}",2017-11-27 18:59:48.0,2018-04-10 14:36:39.0
+78,1,58,"{""en"": ""Theatre"", ""es"": ""Teatro""}","","{""en"": ""."", ""es"": "".""}",2017-11-27 19:03:21.0,2017-11-27 19:03:21.0
+79,1,58,"{""en"": ""Art "", ""es"": ""Arte""}","","{""en"": ""."", ""es"": "".""}",2017-11-27 19:07:59.0,2018-06-22 19:08:53.0
+80,1,58,"{""en"": ""Museum"", ""es"": ""Museo""}","","{""en"": ""."", ""es"": "".""}",2017-11-27 19:08:39.0,2017-11-27 19:08:39.0
+81,1,58,"{""en"": ""Architecture & Construction"", ""es"": ""Arquitectura y Construcción""}","","{""en"": ""."", ""es"": "".""}",2017-11-27 19:13:25.0,2018-04-05 17:13:07.0
+82,1,59,"{""en"": ""Restaurant"", ""es"": ""Restaurante""}","","{""en"": ""."", ""es"": "".""}",2017-11-27 19:24:50.0,2017-11-27 19:24:50.0
+83,1,59,"{""en"": ""Bar"", ""es"": ""Barra""}","","{""en"": ""."", ""es"": "".""}",2017-11-27 19:25:24.0,2017-11-27 19:25:24.0
+84,1,59,"{""en"": ""Winery"", ""es"": ""Bodega Vinícola""}","","{""en"": ""."", ""es"": "".""}",2017-11-27 19:29:50.0,2018-04-05 16:45:02.0
+85,1,59,"{""en"": ""Brewery"", ""es"": ""Cervecería""}","","{""en"": ""."", ""es"": "".""}",2017-11-27 19:32:11.0,2017-11-27 19:32:11.0
+86,1,59,"{""en"": ""Food Supply"", ""es"": ""Suministros de Alimentos""}","","{""en"": ""."", ""es"": "".""}",2017-11-27 19:32:56.0,2018-04-10 18:23:36.0
+89,1,60,"{""en"": ""Institute"", ""es"": ""Instituto""}","","{""en"": ""."", ""es"": "".""}",2017-11-27 19:42:30.0,2017-11-27 19:42:30.0
+90,1,60,"{""en"": ""Schools"", ""es"": ""Escuelas""}","","{""en"": ""."", ""es"": "".""}",2017-11-27 19:42:53.0,2017-11-27 19:42:53.0
+91,1,60,"{""en"": ""University"", ""es"": ""Universidad""}","","{""en"": ""."", ""es"": "".""}",2017-11-27 19:43:16.0,2017-11-27 19:43:16.0
+92,1,61,"{""en"": ""Entrepreneurship "", ""es"": ""Emprendimiento""}","","{""en"": ""."", ""es"": "".""}",2017-11-27 19:49:59.0,2017-11-27 19:49:59.0
+93,1,61,"{""en"": ""Finances"", ""es"": ""Finanzas""}","","{""en"": ""."", ""es"": "".""}",2017-11-27 19:50:39.0,2018-10-12 18:29:15.0
+94,1,61,"{""en"": ""Sales"", ""es"": ""Ventas""}","","{""en"": ""."", ""es"": "".""}",2017-11-27 19:50:57.0,2017-11-27 19:50:57.0
+95,0,8,"{""en"": ""Business"", ""es"": ""Negocios""}","","{""en"": ""."", ""es"": ""Emprendedor""}",2017-11-27 19:54:43.0,2018-06-21 17:31:08.0
+96,1,56,"{""en"": ""Newspaper"", ""es"": ""Periódico""}","","{""en"": ""."", ""es"": "".""}",2017-11-28 14:09:26.0,2018-04-05 17:01:22.0
+97,0,3,"{""en"": ""Journalism"", ""es"": ""Periodismo""}","","{""en"": ""."", ""es"": "".""}",2017-11-28 14:14:09.0,2017-11-28 14:14:09.0
+98,1,56,"{""en"": ""Cinema Industry"", ""es"": ""Industria del Cine""}","","{""en"": ""."", ""es"": "".""}",2018-04-04 19:52:46.0,2018-04-05 17:27:51.0
+99,1,55,"{""en"": ""Record label"", ""es"": ""Sello Disquero""}","","{""en"": ""."", ""es"": "".""}",2018-04-05 16:38:54.0,2018-04-05 16:38:54.0
+100,1,57,"{""en"": ""Sport Team"", ""es"": ""Equipo Deportivo""}","","{""en"": ""."", ""es"": "".""}",2018-04-09 15:54:29.0,2018-04-09 15:54:41.0
+101,1,55,"{""en"": ""Events & Promotions"", ""es"": ""Eventos y Promociones""}","","{""en"": ""."", ""es"": "".""}",2018-04-16 19:59:27.0,2018-04-16 19:59:27.0
+102,0,8,"{""en"": ""IT & Software"", ""es"": ""Informática y Software""}","","{""en"": ""."", ""es"": "".""}",2018-06-21 17:34:10.0,2018-06-21 17:34:10.0
